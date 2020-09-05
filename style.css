@@ -258,7 +258,7 @@ font-size: ;}
  height:280px;
  background-size:cover;
  background-repeat:no-repeat;
- background-image: url("./images/project in your mind.png");
+ background-image: url("project in your mind.png");
  display: flex;
  flex-direction: column;
  justify-content: center;
